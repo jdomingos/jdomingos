@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hey!
 
+Don't worry if you don't know how to pronounce my name, I got you!
+Check [https://www.youtube.com/watch?v=sH8H55wogoQ](this)!
 <!--
 **jdomingos/jdomingos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
